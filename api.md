@@ -1,6 +1,4 @@
-# ex1a
-
-Students Grades web service
+# ex1 - part 1: Students Grades web service
 
 https://ex1a.herokuapp.com //the app in heroku. will write cannot Get
 
